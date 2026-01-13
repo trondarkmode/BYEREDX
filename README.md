@@ -6,8 +6,8 @@
 
 **BYEREDX** runs silently in the background and intercepts the window-close action to terminate the application process entirely. It features robust operation modes to either exclude specific applications or target only specific ones, offering seamless integration with macOS via the menu bar.
 
-<img width="506" height="486" alt="Screenshot 1" src="https://github.com/user-attachments/assets/d0c089a8-99dd-451c-bda7-80c7e17815da" />
-<img width="520" height="501" alt="Screenshot 2" src="https://github.com/user-attachments/assets/bdf64b02-0d7e-44d0-a41a-d2ee2d0338c1" />
+<img width="520" height="501" alt="Screenshot 2" src="https://github.com/user-attachments/assets/627f187c-a246-4df9-b5ca-e86ea6f97fbb" />
+<img width="514" height="498" alt="Screenshot 1" src="https://github.com/user-attachments/assets/bb8c80c3-678f-4bc2-b141-4f90bc421513" />
 
 
 ## ✨ Key Features
