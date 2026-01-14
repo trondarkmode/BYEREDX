@@ -35,16 +35,6 @@
 			path = BYEREDX;
 			sourceTree = "<group>";
 		};
-		7D27F8692F14F94C003B275D /* BYEREDXTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = BYEREDXTests;
-			sourceTree = "<group>";
-		};
-		7D27F8732F14F94C003B275D /* BYEREDXUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = BYEREDXUITests;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +66,6 @@
 			isa = PBXGroup;
 			children = (
 				7D27F8592F14F94B003B275D /* BYEREDX */,
-				7D27F8692F14F94C003B275D /* BYEREDXTests */,
-				7D27F8732F14F94C003B275D /* BYEREDXUITests */,
 				7D27F8582F14F94B003B275D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,9 +118,6 @@
 			dependencies = (
 				7D27F8682F14F94C003B275D /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				7D27F8692F14F94C003B275D /* BYEREDXTests */,
-			);
 			name = BYEREDXTests;
 			packageProductDependencies = (
 			);
@@ -152,9 +137,6 @@
 			);
 			dependencies = (
 				7D27F8722F14F94C003B275D /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				7D27F8732F14F94C003B275D /* BYEREDXUITests */,
 			);
 			name = BYEREDXUITests;
 			packageProductDependencies = (
@@ -408,7 +390,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 15.7;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = BYEREDX.BYEREDXV2;
+				PRODUCT_BUNDLE_IDENTIFIER = BYEREDX.BYEREDXV3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
@@ -449,7 +431,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 15.7;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = BYEREDX.BYEREDXV2;
+				PRODUCT_BUNDLE_IDENTIFIER = BYEREDX.BYEREDXV3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
