@@ -26,7 +26,7 @@
 ### Version 1.0.5 (Current)
 -   Added 'Report a Problem' feature.
 
-### Version 1.0.4
+### v1.0.4
 -   Watchlist Trap System: Fixed a persistent issue where apps like Apple Notes and Music would not close on the very first launch.
 -   CoreGraphics Verification: The app now uses a direct screen scan (CoreGraphics) when specific apps lose focus, ensuring 100% reliable closing without waiting for Accessibility connections.
 -   Improved Stability: Optimized background monitoring logic.
