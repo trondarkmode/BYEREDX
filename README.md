@@ -54,7 +54,7 @@
 ## ⚙️ Installation
 
 ### 1. Download
-Go to the [**Releases**](https://github.com/trondarkmode/BYEREDX/releases/tag/1.0.3) page on this repository and download the latest version (`.zip` or `.dmg`).
+Go to the [**Releases**](https://github.com/trondarkmode/BYEREDX/releases/) page on this repository and download the latest version (`.zip` or `.dmg`).
 
 ### 2. Install
 1.  Unzip the downloaded file.
