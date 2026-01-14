@@ -62,6 +62,7 @@ Go to the [**Releases**](https://github.com/trondarkmode/BYEREDX/releases/) page
 1.  Unzip the downloaded file.
 2.  Move **BYEREDX.app** to your **Applications** folder.
 3.  Open BYEREDX.app.
+
 HOW TO INSTALL [**YOUTUBE**](https://youtu.be/7C3wo4A3gWY)
 
 ### 3. Grant Permissions (Crucial Step)
