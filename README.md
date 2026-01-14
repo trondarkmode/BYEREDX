@@ -23,8 +23,10 @@
 -   **Language Support:** Interface available in English and Thai.
 
 ## 📅 Version History
+### Version 1.0.5 (Current)
+-   Added 'Report a Problem' feature.
 
-### Version 1.0.4 (Current)
+### Version 1.0.4
 -   Watchlist Trap System: Fixed a persistent issue where apps like Apple Notes and Music would not close on the very first launch.
 -   CoreGraphics Verification: The app now uses a direct screen scan (CoreGraphics) when specific apps lose focus, ensuring 100% reliable closing without waiting for Accessibility connections.
 -   Improved Stability: Optimized background monitoring logic.
@@ -60,6 +62,7 @@ Go to the [**Releases**](https://github.com/trondarkmode/BYEREDX/releases/) page
 1.  Unzip the downloaded file.
 2.  Move **BYEREDX.app** to your **Applications** folder.
 3.  Open BYEREDX.app.
+HOW TO INSTALL [**YOUTUBE**](https://youtu.be/7C3wo4A3gWY)
 
 ### 3. Grant Permissions (Crucial Step)
 MacOS requires explicit permission for applications to control other windows.
