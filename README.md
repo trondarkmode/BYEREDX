@@ -24,13 +24,18 @@
 
 ## 📅 Version History
 
-### v1.0.3 (Current)
+### Version 1.0.4 (Current)
+-   Watchlist Trap System: Fixed a persistent issue where apps like Apple Notes and Music would not close on the very first launch.
+-   CoreGraphics Verification: The app now uses a direct screen scan (CoreGraphics) when specific apps lose focus, ensuring 100% reliable closing without waiting for Accessibility connections.
+-   Improved Stability: Optimized background monitoring logic.
+            
+### v1.0.3
 -   Adjust stability.
 
 ### v1.0.2 
--   **New Feature:** Added **Target Mode** (Blacklist). You can now choose to only close specific apps.
--   **New Feature:** Added **Check for Updates** button in the "About" section.
--   **New Feature:** Automatic update checking upon application launch.
+-   Added **Target Mode** (Blacklist). You can now choose to only close specific apps.
+-   Added **Check for Updates** button in the "About" section.
+-   Automatic update checking upon application launch.
 -   **Improvement:** Separated database lists for Exclude Mode and Target Mode (lists are now independent).
 -   **Improvement:** Enhanced UI for List Manager with visual indicators (Green Shield for Exclude, Red Target for Blacklist).
 
